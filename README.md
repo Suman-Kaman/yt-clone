@@ -22,3 +22,22 @@ Live Demo
 Check the live project here: [YouTube Clone](https://suman-kaman.github.io/yt-clone/)
 
  Project Structure
+
+ youtube-clone/
+│
+├── index.html
+├── styles/
+│ └── style.css
+├── icons/
+├── thumbnails/
+└── README.md
+
+
+ How to Run
+1. Clone this repository: `git clone https://github.com/suman-kaman/yt-clone.git`
+2. Open `index.html` in your browser
+3. Explore the responsive design and page navigation
+
+Author
+Suman Kaman– MCA Student, Web Development Enthusiast
+
